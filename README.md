@@ -81,8 +81,8 @@ __Lead:__ Both – Marii can do Mac with main group, Alex can help Windows/Unix 
 
 __To Do:__
 
-- __~60 mins:__	[System setup](#TO-DO) (This includes Ruby installs, Git configuration, and getting Atom)
-- __Overflow:__ Keep working on data sets
+- __~60 mins:__	[System setup](https://github.com/mnyrop/minicomp_syllabus/blob/master/SYSTEM_SETUP_GUIDE.md) (This includes Ruby installs, Git configuration, and getting Atom)
+- __Overflow:__ Basic CLI commands for navigating the file system, then keep working on data sets
 
 ## Tuesday
 __Time:__  5hrs & 30mins
