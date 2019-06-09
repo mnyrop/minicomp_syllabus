@@ -1,5 +1,11 @@
 # Command Line Cheat Sheet
 
+__Command Syntax__:  
+
+`command -flag <argument>`, e.g., `ls -a ~/Desktop`, is like `verb -adverb object`
+
+
+
 ## Basic
 - `pwd`       – __Print working directory__ command. It's like asking "Where am i?"
 - `cd [PATH]` - __Change directory__ command. Lets you navigate your filesystem and move around.
