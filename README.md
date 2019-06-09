@@ -45,7 +45,7 @@ __Lead:__ Alex (but I can jump in)
 __To Do:__
 
 - __~30 mins:__	Welcome/introductions 
-- __~25 mins:__ Describe the Wax “stack”, what it offers/leverages, and what you’ll learn 
+- __~25 mins:__ Describe the Wax “stack”, what it offers/leverages, and what you’ll learn (https://slides.com/marii/dreamlab-minicomp/)
 - __~15 mins:__ Look at examples (Wax *and* broader static site implementations, e.g., 
   + [Liturgical Books](https://elotroalex.github.io/liturgical-books/)
   + [Monument Lab Proposals](http://proposals.monumentlab.com/)
