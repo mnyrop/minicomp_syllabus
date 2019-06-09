@@ -2,7 +2,26 @@
 
 __Command Syntax__:  
 
-`command -flag <argument>`, e.g., `ls -a ~/Desktop`, is like `verb -adverb object`
+`command -flag(s) argument(s)`  
+e.g., `ls -a ~/Desktop`    
+is like `verb -adverb object`  
+
+__Command:__
+- Is the action you're performing
+- Must be the first in the line
+- Can only have one per line (with exceptions)
+
+__Flag(s):__
+- Modify the behavior of the command
+- Are optional
+- Can have zero or more per command
+- Must come after the command and before arguments
+- Will always have `-` or `--` in front of them
+
+__Arguments:__
+- Are what you perform the command on/to
+- Can have zero or more per command
+- Must come at the end of the line
 
 
 
