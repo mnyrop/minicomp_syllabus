@@ -70,9 +70,9 @@ __Lead:__ Marii
 
 __To Do:__
 
-- __~15 mins:__	Making and understanding CSVs (use Google sheets or Atom)
+- __~15 mins:__	Making and understanding CSVs (use Google sheets or Atom) (e.g., https://docs.google.com/spreadsheets/d/1vpH25P2RjF904Ki8YcyAoIGawTrpY3kMTxj4KhROmUw)
 - __~15 mins:__	Renaming asset files
-- __~30 mins:__	Data gathering / work on own datasets + discuss in pairs?
+- __~30 mins:__	Data gathering / work on own datasets + discuss in pairs? (https://commons.wikimedia.org/wiki/Main_Page)
 
 ### 2:45 – 4:30 pm
 __Time:__ 1hr & 45mins
